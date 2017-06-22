@@ -1,0 +1,13 @@
+﻿  Internet.cpp
+  MyForm.cpp
+c:\users\xdc\documents\visual studio 2015\projects\cppwinform4\cppwinform4\MyForm.h(358): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\xdc\documents\visual studio 2015\projects\cppwinform4\cppwinform4\MyForm.h(359): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  MyForm1.cpp
+  MyForm2.cpp
+  MyForm3.cpp
+  MyForm4.cpp
+  MyForm5.cpp
+  Создание кода...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  CppWinForm4.vcxproj -> C:\Users\xdc\Documents\Visual Studio 2015\Projects\CppWinForm4\Debug\CppWinForm4.exe
+  CppWinForm4.vcxproj -> C:\Users\xdc\Documents\Visual Studio 2015\Projects\CppWinForm4\Debug\CppWinForm4.pdb (Full PDB)
